@@ -1,2 +1,2 @@
-cat Alex = 'Alex'
-print(f"Я котик {Alex} и я люблю кушать")
+cat = 'Alex'
+print(f"Я котик {cat} и я люблю кушать")
